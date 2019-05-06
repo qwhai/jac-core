@@ -10,20 +10,19 @@ public interface Intervalable extends Comparable {
      * 
      * @return
      */
-    public int getStart();
+    int getStart();
 
     /**
      * 终点
      * 
      * @return
      */
-    public int getEnd();
+    int getEnd();
 
     /**
      * 长度
      * 
      * @return
      */
-    public int size();
-
+    int size();
 }
