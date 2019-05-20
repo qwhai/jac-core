@@ -90,6 +90,8 @@ for (Emit emit : emits) {
 19:22=java
 ```
 
-本人CSDN博客 [点击链接](https://qwhai.blog.csdn.net/)
+----------------------------------------------
 
-[深入理解Aho-Corasick自动机算法 ](https://qwhai.blog.csdn.net/article/details/49335051)
+- [Blog<sup>csdn</sup>](https://qwhai.blog.csdn.net/)
+- 《[深入理解Aho-Corasick自动机算法](https://qwhai.blog.csdn.net/article/details/49335051)》
+- [Github](https://github.com/qwhaib)
