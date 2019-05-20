@@ -1,4 +1,4 @@
-package org.ahocorasick.trie;
+package pers.hai.framework.ahocorasick.trie;
 
 import java.util.*;
 

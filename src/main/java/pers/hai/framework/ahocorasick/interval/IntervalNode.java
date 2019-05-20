@@ -1,4 +1,4 @@
-package org.ahocorasick.interval;
+package pers.hai.framework.ahocorasick.interval;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -199,7 +199,7 @@ public class IntervalNode
 
     /**
      * 是对IntervalNode.findOverlaps(Intervalable)的一个包装，防止NPE
-     * @see org.ahocorasick.interval.IntervalNode#findOverlaps(Intervalable)
+     * @see IntervalNode#findOverlaps(Intervalable)
      * @param node
      * @param interval
      * @return

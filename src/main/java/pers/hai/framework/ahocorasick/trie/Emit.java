@@ -1,7 +1,7 @@
-package org.ahocorasick.trie;
+package pers.hai.framework.ahocorasick.trie;
 
-import org.ahocorasick.interval.Interval;
-import org.ahocorasick.interval.Intervalable;
+import pers.hai.framework.ahocorasick.interval.Interval;
+import pers.hai.framework.ahocorasick.interval.Intervalable;
 
 /**
  * 一个模式串匹配结果

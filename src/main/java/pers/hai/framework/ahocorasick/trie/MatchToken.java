@@ -1,4 +1,4 @@
-package org.ahocorasick.trie;
+package pers.hai.framework.ahocorasick.trie;
 
 /**
  * 匹配到的片段

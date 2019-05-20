@@ -1,7 +1,7 @@
-package org.ahocorasick.trie;
+package pers.hai.framework.ahocorasick.trie;
 
-import org.ahocorasick.interval.IntervalTree;
-import org.ahocorasick.interval.Intervalable;
+import pers.hai.framework.ahocorasick.interval.IntervalTree;
+import pers.hai.framework.ahocorasick.interval.Intervalable;
 
 import java.util.ArrayList;
 import java.util.Collection;

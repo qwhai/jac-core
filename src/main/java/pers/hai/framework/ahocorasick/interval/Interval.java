@@ -1,4 +1,4 @@
-package org.ahocorasick.interval;
+package pers.hai.framework.ahocorasick.interval;
 
 /**
  * 区间

@@ -1,8 +1,8 @@
-package org.ahocorasick;
+package pers.hai.framework.ahocorasick;
 
-import org.ahocorasick.trie.Emit;
-import org.ahocorasick.trie.Trie;
-import org.ahocorasick.trie.TrieConfig;
+import pers.hai.framework.ahocorasick.trie.Emit;
+import pers.hai.framework.ahocorasick.trie.Trie;
+import pers.hai.framework.ahocorasick.trie.TrieConfig;
 import org.apache.log4j.Logger;
 import org.junit.Test;
 
